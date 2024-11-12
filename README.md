@@ -50,6 +50,5 @@ class loanadmin(admin.ModelAdmin):
 Screenshot 2024-11-12 183249.png
 
 
-
 ## RESULT
 Thus the program for creating a database using ORM hass been executed successfully
