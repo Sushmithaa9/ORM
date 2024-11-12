@@ -43,12 +43,11 @@ class loan (models.Model):
  
 class loanadmin(admin.ModelAdmin):
     list_display=('loan_id','loan_type','loan_amnt','cust_acntno','cust_name')
-    ```
+```
 
 
 ## OUTPUT
 Screenshot 2024-11-12 183249.png
-
 
 ## RESULT
 Thus the program for creating a database using ORM hass been executed successfully
